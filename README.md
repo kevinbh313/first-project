@@ -1,2 +1,1 @@
-# first-project
- First Treehouse Project
+First Project
